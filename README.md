@@ -27,7 +27,7 @@ drawpicture8.m: Plot Fig.7 and Fig.8 in paper
 figure_diff_l_1000000user_ac40.mat: Simulation results of Fig.9 in paper 
 drawpicture9.m: Plot Fig.9 in paper 
 
-#Citation
+# Citation
 @INPROCEEDINGS{9148341,
   author={Bai, Yanna and Chen, Wei and Ai, Bo and Zhong, Zhangdui},
   booktitle={2020 International Wireless Communications and Mobile Computing (IWCMC)}, 
